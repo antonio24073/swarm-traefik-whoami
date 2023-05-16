@@ -1,6 +1,6 @@
 # Swarm Traefik Whoami
 
-This is a example project to run containers in localhost using traefik and docker swarm. 
+This is an example project to run containers in localhost using traefik and docker swarm. 
 
 ## Installation:
 
